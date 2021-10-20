@@ -1,1 +1,3 @@
-# Komunikacja-Cz-owiek-Komputer
+# Komunikacja-Człowiek-Komputer
+
+Projekty na KCK
